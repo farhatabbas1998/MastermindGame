@@ -1,2 +1,2 @@
 # MastermindGame
-this is a simple game i created using C language. just for fun
+this is a simple mastermind game i created using C language. just for fun
